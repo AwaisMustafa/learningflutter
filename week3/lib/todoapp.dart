@@ -152,27 +152,7 @@ class _TodoHomePageState extends State<TodoHome> {
               ),
             ),
           ),
-          Padding(
-            padding: const EdgeInsets.all(12),
-            child: Row(
-              children: [
-                Expanded(
-                  child: TextField(
-                    controller: _controller,
-                    decoration: InputDecoration(
-                      hintText: 'Enter task',
-                      border: OutlineInputBorder(),
-                    ),
-                  ),
-                ),
-                SizedBox(width: 8),
-                ElevatedButton(
-                  onPressed: () => _addTask(_controller.text),
-                  child: Text('Add'),
-                ),
-              ],
-            ),
-          ),
+        
           Expanded(
             child: Container(
               width: MediaQuery.of(context).size.width * 0.9,
