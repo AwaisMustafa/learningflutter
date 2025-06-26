@@ -152,6 +152,7 @@ class _TodoHomePageState extends State<TodoHome> {
               ),
             ),
           ),
+<<<<<<< HEAD
           Padding(
             padding: const EdgeInsets.all(12),
             child: Row(
@@ -173,6 +174,9 @@ class _TodoHomePageState extends State<TodoHome> {
               ],
             ),
           ),
+=======
+        
+>>>>>>> 752e338c54f74a9e7525bb074bc5fbbfd3f85438
           Expanded(
             child: Container(
               width: MediaQuery.of(context).size.width * 0.9,
