@@ -13,7 +13,7 @@ learningflutter
     <p></p>
 
   <img src="Screenshots/week3%20%E2%80%93%20todoapp.dart%20%5Bweek3%5D.png" width="300" height="400">
-  <img src="Screenshots/week3%20%E2%80%93%20todoapp.dart%20%5Bweek3%5D%201.png.png" width="300" height="400">
+  <img src="Screenshots/week3%20%E2%80%93%20todoapp.dart%20%5Bweek3%5D%201.png" width="300" height="400">
     <p></p>
 
   <img src="Screenshots/week4%20%E2%80%93%20Api.dart%20%5Bweek4%5D.png" width="300" height="400">
